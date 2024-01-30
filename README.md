@@ -1,2 +1,0 @@
-# arshad
-learning javascript
